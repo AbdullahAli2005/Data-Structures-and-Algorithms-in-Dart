@@ -20,9 +20,11 @@ Each folder contains the relevant Dart files implementing the data structures an
 
 The files in this repository are named with a numbering system, such as `25_Merge_Sort` and `31_Depth_First_Search`. This numbering reflects the sequence in which I studied and implemented these concepts. If you are a fresher, this numbering may provide a helpful learning order—but feel free to explore them in any sequence!  
 
-## Getting Started  
+Explore the folders to find the implementations you are interested in. Each folder contains a README.md file explaining the algorithms or data structures in detail.
 
-1. Clone the repository:  
+Clone the repository:  
    ```bash
    git clone https://github.com/YourUsername/Dart-DSA.git
    cd Dart-DSA
+
+   
