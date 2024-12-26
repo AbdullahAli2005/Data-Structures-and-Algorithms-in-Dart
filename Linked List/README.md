@@ -1,7 +1,7 @@
-# Singly and Circular Linked Lists in Dart
+# Singly, Circular and Doubly Linked Lists in Dart
 
 ## Overview
-This folder contains Dart implementations of linked list data structures, including Singly Linked Lists (SLL) and Circular Linked Lists (CLL). The implementations focus on fundamental operations such as traversal, insertion, and deletion.
+This folder contains Dart implementations of linked list data structures, including Singly Linked Lists (SLL),Circular Linked Lists (CLL) and Doubly Linked List(DLL). The implementations focus on fundamental operations such as traversal, insertion, and deletion.
 
 ---
 
@@ -20,6 +20,8 @@ Unlike arrays, linked lists are dynamic and can grow or shrink during execution.
 
 2. **Circular Linked List (CLL)**:  
    Similar to SLL, but the last node points back to the first node, forming a circular structure.
+
+3. **Doubly Linked List (DLL)**: Each node contains references to both the next and the previous nodes.   
 
 ---
 
