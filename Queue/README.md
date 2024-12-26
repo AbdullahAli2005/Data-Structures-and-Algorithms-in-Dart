@@ -2,6 +2,12 @@
 
 This directory contains implementations of various types of queues in Dart. Each implementation demonstrates a different way to handle queue operations like enqueue, dequeue, and traversal.
 
+##Key Concepts
+Queue: A linear data structure following the FIFO (First In First Out) principle.
+Circular Queue: Overcomes the limitation of fixed-size arrays by reusing empty spaces.
+Linked List Queue: Dynamically grows and shrinks without size constraints.
+Deque: A double-ended queue where elements can be added or removed from both ends.
+
 ## Files Overview
 
 ### 1. `17_Queue_using_arrays.dart`
@@ -52,3 +58,10 @@ This directory contains implementations of various types of queues in Dart. Each
 2. Use the following command to execute a specific file:
    ```bash
    dart <filename>.dart
+   For Example dart 17_Queue_using_arrays.dart
+  ---
+  
+Feel free to explore the code and modify it to suit your learning or application needs!
+
+
+   
