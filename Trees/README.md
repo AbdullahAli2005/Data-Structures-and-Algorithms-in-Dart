@@ -49,11 +49,11 @@ The provided implementation includes:
 - **BST Validation**: A function that checks if the tree adheres to the BST properties.
 
 ### Example Structure:
-      10
+        10
+       / \
+      5   15
      / \
-    5   15
-   / \
-  3   7
+    3   7
 
 
 ### Key Features:
@@ -77,11 +77,11 @@ An **AVL Tree** is a self-balancing binary search tree where the difference betw
   - **Right-Left Rotation (RL case)**
 
 ### Example Structure after Insertions:
-     4
-    / \
-   2   5
-  / \   \
- 1   3   6
+        4
+       / \
+      2   5
+     / \   \
+    1   3   6
 
  
 ### Key Features:
