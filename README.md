@@ -1,4 +1,4 @@
-![Alt text]([https://github.com/username/repository/raw/main/your-image.png](https://github.com/AbdullahAli2005/Data-Structures-and-Algorithms-in-Dart/blob/main/DSA%20Dart.png?raw=true)
+![Alt text](https://github.com/AbdullahAli2005/Data-Structures-and-Algorithms-in-Dart/raw/main/DSA%20Dart.png)
 
 
 # Dart DSA: Data Structures and Algorithms in Dart  
