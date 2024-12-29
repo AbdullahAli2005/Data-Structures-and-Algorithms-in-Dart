@@ -83,7 +83,6 @@ Contributions are welcome! If you have a new implementation or improvement, feel
 ## 👩‍💻 Author
 
 **Abdullah Ali**  
-- GitHub: [AbdullahAli2005](https://github.com/AbdullahAli2005)  
 
 ---
 
