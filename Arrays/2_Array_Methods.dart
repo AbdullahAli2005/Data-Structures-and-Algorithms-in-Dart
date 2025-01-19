@@ -3,9 +3,8 @@ import 'dart:io';
 void display(List<int> arr) {
   // Code for Traversal
   for (int i = 0; i < arr.length; i++) {
-    stdout.write('${arr[i]} ');
+    print('${arr[i]} ');
   }
-  print('');
 }
 
 bool insertion(List<int> arr, int element, int capacity, int index) {
