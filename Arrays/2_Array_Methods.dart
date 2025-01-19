@@ -23,7 +23,7 @@ void deletion(List<int> arr, int index) {
 
 void main() {
   List<int> arr = [2, 4, 6, 10, 12];
-  int capacity = 100; // Similar to the array capacity in C
+  int capacity = 100;
   int element = 8, index = 3;
 
   print("Array Traversal:");
